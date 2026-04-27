@@ -1,0 +1,22 @@
+# Compiled binaries and executables
+dpi_engine
+dpi_simple
+*.exe
+*.out
+
+# Generated PCAP files
+output.pcap
+*.pcap.bak
+
+# Build directories
+build/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+
+# Temporary files
+*.o
+*.obj
